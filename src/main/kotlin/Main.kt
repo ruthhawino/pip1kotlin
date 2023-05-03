@@ -1,8 +1,8 @@
 fun main() {
-    citizenshipDetails("Ruth",19,"Kenyan")
+    citizenshipDetails("Ruth",20,"Kenyan")
 
 
- val output = addition(12,13,74,19)
+ val output = addition(12,13,74,36)
     println(output)
 
     val result=averageValues(12.0,13.0,24.2,30.0,3.7)
