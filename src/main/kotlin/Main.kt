@@ -14,13 +14,13 @@ fun main() {
         19,
         "+254712345678",
         "awinoruth@gmail.com",
-        75.5,
+        70.5,
         false
     )
 }
 
 //1. Create and invoke a function that takes in a users name, age, and nationality and prints out “Hello my name is ${name}, I am ${age} and I am from ${nationality}” e.g
-//given “Lucy”, 23, and “Kenya” it will print out “Hello my name is Lucy, I am 23 years old and I am from Kenya” (2 points)
+//given “Lucy”, 23, and “Kenya” it will print out “Hello andmy name is Lucy, I am 23 years old and I am from Kenya” (2 points)
 
 
 fun citizenshipDetails(name:String,age:Int,nationality:String){
