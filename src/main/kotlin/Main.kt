@@ -27,7 +27,7 @@ fun citizenshipDetails(name:String,age:Int,nationality:String){
     println("Hello my name is $name ,I am $age years old and I am a $nationality")
 }
 
-//2. Create and invoke a function that returns the sum of any given 4 numbers (3 points)
+//2. Create and invoke a function that returns the sum of any given 4 numbers in a more cleaner code (3 points)
 
 fun addition(num1:Int,num2:Int,num3:Int,num4:Int,):Int{
 
